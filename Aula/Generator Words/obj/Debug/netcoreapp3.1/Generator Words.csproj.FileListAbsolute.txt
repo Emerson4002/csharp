@@ -1,0 +1,11 @@
+C:\Projetos APPS test\Generator Words\bin\Debug\netcoreapp3.1\Generator Words.exe
+C:\Projetos APPS test\Generator Words\bin\Debug\netcoreapp3.1\Generator Words.deps.json
+C:\Projetos APPS test\Generator Words\bin\Debug\netcoreapp3.1\Generator Words.runtimeconfig.json
+C:\Projetos APPS test\Generator Words\bin\Debug\netcoreapp3.1\Generator Words.runtimeconfig.dev.json
+C:\Projetos APPS test\Generator Words\bin\Debug\netcoreapp3.1\Generator Words.dll
+C:\Projetos APPS test\Generator Words\bin\Debug\netcoreapp3.1\Generator Words.pdb
+C:\Projetos APPS test\Generator Words\obj\Debug\netcoreapp3.1\Generator Words.csprojAssemblyReference.cache
+C:\Projetos APPS test\Generator Words\obj\Debug\netcoreapp3.1\Generator Words.AssemblyInfoInputs.cache
+C:\Projetos APPS test\Generator Words\obj\Debug\netcoreapp3.1\Generator Words.AssemblyInfo.cs
+C:\Projetos APPS test\Generator Words\obj\Debug\netcoreapp3.1\Generator Words.dll
+C:\Projetos APPS test\Generator Words\obj\Debug\netcoreapp3.1\Generator Words.pdb

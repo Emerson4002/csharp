@@ -1,0 +1,13 @@
+C:\Programas VSCODE\Aula\Aula02\bin\Debug\netcoreapp3.1\Aula02.exe
+C:\Programas VSCODE\Aula\Aula02\bin\Debug\netcoreapp3.1\Aula02.deps.json
+C:\Programas VSCODE\Aula\Aula02\bin\Debug\netcoreapp3.1\Aula02.runtimeconfig.json
+C:\Programas VSCODE\Aula\Aula02\bin\Debug\netcoreapp3.1\Aula02.runtimeconfig.dev.json
+C:\Programas VSCODE\Aula\Aula02\bin\Debug\netcoreapp3.1\Aula02.dll
+C:\Programas VSCODE\Aula\Aula02\bin\Debug\netcoreapp3.1\Aula02.pdb
+C:\Programas VSCODE\Aula\Aula02\obj\Debug\netcoreapp3.1\Aula02.csprojAssemblyReference.cache
+C:\Programas VSCODE\Aula\Aula02\obj\Debug\netcoreapp3.1\Aula02.AssemblyInfoInputs.cache
+C:\Programas VSCODE\Aula\Aula02\obj\Debug\netcoreapp3.1\Aula02.AssemblyInfo.cs
+C:\Programas VSCODE\Aula\Aula02\obj\Debug\netcoreapp3.1\Aula02.csproj.CoreCompileInputs.cache
+C:\Programas VSCODE\Aula\Aula02\obj\Debug\netcoreapp3.1\Aula02.dll
+C:\Programas VSCODE\Aula\Aula02\obj\Debug\netcoreapp3.1\Aula02.pdb
+C:\Programas VSCODE\Aula\Aula02\obj\Debug\netcoreapp3.1\Aula02.genruntimeconfig.cache
