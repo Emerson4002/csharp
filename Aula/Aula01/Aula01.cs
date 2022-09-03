@@ -4,7 +4,7 @@ class principal{
 
     static void Main()
     {
-        Console.Write("Ola fi...");
+        Console.Write("Olá Mundo!");
         Console.ReadLine();
     }
 
